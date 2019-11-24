@@ -1,0 +1,1 @@
+klasy abstrakcyjne moga dziedziczyć tylko po jednej innej klasie, mogą dostarczać ciała metod i mogą określać metody o innej widocznosci niż ‘public’. Interfejsy z kolei mogą być dziedziczone wielokrotnie, mogą dostarczać domyślne ciała metod (ale nie mogą przesłaniać innych metod) i dotyczą tylko metod o widoczności public.
